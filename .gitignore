@@ -1,0 +1,29 @@
+# Node.js関連
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Electron ビルド関連
+dist/
+out/
+*.exe
+*.dmg
+*.AppImage
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# ログ
+*.log
+
+# 環境変数（セキュリティ）
+.env*
+
+# 一時ファイル
+*.tmp
+.cache/
